@@ -1,13 +1,14 @@
 # Blog
 C20IO1006 Group-1 Г.Билгүүн
 
-npm-s node_modules tataj avah;
+npm i node_modules;
 
 package.json file deer baigaa nemelt ugugdliig tataj suulgah;
 
 
 MySQL  
-database - users;
+
+create database users;
 
 create table login(
 id int not null auto_increment,
@@ -25,3 +26,9 @@ highlight varchar(350),
 body longtext not null,
 image varchar(300),
 primary key (id));
+
+
+bugdiign hiisnii dra 
+server asaah
+
+-- npm start --
